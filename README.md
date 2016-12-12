@@ -8,11 +8,13 @@ Both are in the "sql" folder.
 REPORT:
 
 --- Contents ---
+
 1. Navigation
 2. Javascript Usage
 3. Backwards Compatibility
 
 --- Navigation ---
+
 My website consists of two departments; “Clothing” and “Circus Stuff”. These are accessed via
 “index.html”. The “Circus Stuff” section is a lot more sophisticated than “Clothing”.
 
@@ -31,6 +33,7 @@ The page is as high as the content contained within it. The width is fluid down 
 becomes rigid.
 
 --- Javascript Usage ---
+
 + Youtube video and text inside the 6 'featured offers' divs shrink once the browser window has a
 width smaller than 1100px.
 + Height of the left and right columns of each page set to the same as whichever stretched further
